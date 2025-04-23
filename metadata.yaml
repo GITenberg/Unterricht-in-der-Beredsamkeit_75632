@@ -1,0 +1,72 @@
+_repo: Unterricht-in-der-Beredsamkeit_75632
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Nicolai, W.
+    gutenberg_agent_id: '58074'
+    url: http://www.gutenberg.org/2009/agents/58074
+creator:
+  author:
+    agent_name: Quintilian
+    aliases:
+    - Quintilianus, Marcus Fabius
+    - Quinctilian
+    - Quintillian
+    - Quintilian, Marcus Fabius
+    - Quintilianus, M. Fabius
+    gutenberg_agent_id: '24913'
+    url: http://www.gutenberg.org/2009/agents/24913
+    wikipedia: https://en.wikipedia.org/wiki/Quintilian
+  editor:
+    agent_name: Güthling, Otto
+    aliases:
+    - Guethling, Otto
+    - Guthling, Otto
+    - Güthling, O. (Otto)
+    birthdate: 1853
+    deathdate: 1931
+    gutenberg_agent_id: '58075'
+    url: http://www.gutenberg.org/2009/agents/58075
+    wikipedia: https://de.wikipedia.org/wiki/Otto_G%C3%BCthling
+description: 'Reading ease score: 63.9 (8th & 9th grade). Neither easy nor difficult
+  to read.
+
+  https://en.wikipedia.org/wiki/Institutio_Oratoria https://de.wikipedia.org/wiki/Institutio_oratoria'
+gutenberg_bookshelf:
+- 'Browsing: Language & Communication'
+- 'Browsing: Literature'
+gutenberg_issued: '2025-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75632'
+language: de
+pgterms:marc905: 20180210073418quintilian
+pgterms:marc906: '1916'
+pgterms:marc907: de
+production_note: Richard Scheibel and the Online Distributed Proofreading Team at
+  https://www.pgdp.net
+publication_note: '  $aLeipzig :$bVerlag vonPhilipp Reclam jun. Leipzig, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Reclams Universal-Bibliothek ; 2956
+subjects:
+- !lcsh 'Oratory'
+- !lcsh 'Rhetoric, Ancient'
+- !lcc 'PA'
+- GITenberg
+summary: '"Unterricht in der Beredsamkeit" by Quintilian is a comprehensive treatise
+  on rhetoric written in the 1st century AD. This work serves as a pedagogical guide,
+  aiming to instruct aspiring orators on the principles and practices of effective
+  speaking and writing. It delves deep into the art of rhetoric, emphasizing both
+  the technical aspects of eloquence and the moral standards expected of a speaker.  At
+  the start of this text, Quintilian introduces the foundational elements necessary
+  for mastering rhetoric. He discusses the importance of a rich vocabulary and suggests
+  that a speaker must not only know various expressions but also be adept at using
+  them appropriately. Quintilian outlines the connections between reading, writing,
+  and speaking as crucial for developing genuine eloquence. He presents a holistic
+  approach that intertwines the theoretical aspects of rhetoric with practical skills,
+  laying the groundwork for what he deems effective oration. (This is an automatically
+  generated summary.)'
+title: Unterricht in der Beredsamkeit
+url: http://www.gutenberg.org/ebooks/75632
