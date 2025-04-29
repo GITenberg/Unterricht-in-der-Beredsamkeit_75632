@@ -5,6 +5,9 @@ contributor:
     agent_name: Nicolai, W.
     gutenberg_agent_id: '58074'
     url: http://www.gutenberg.org/2009/agents/58074
+covers:
+- cover_type: archival
+  image_path: 75632-h/images/cover.jpg
 creator:
   author:
     agent_name: Quintilian
@@ -32,6 +35,8 @@ description: 'Reading ease score: 63.9 (8th & 9th grade). Neither easy nor diffi
   to read.
 
   https://en.wikipedia.org/wiki/Institutio_Oratoria https://de.wikipedia.org/wiki/Institutio_oratoria'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75632#Unterricht-in-der-Beredsamkeit
 gutenberg_bookshelf:
 - 'Browsing: Language & Communication'
 - 'Browsing: Literature'
